@@ -352,7 +352,7 @@ export default {
           "CM提供-负载均衡后端": "https://subapi.cmliussss.net",
           "肥羊提供-增强型后端": "https://url.v1.mk",
           "肥羊提供-备用后端": "https://api.v1.mk",
-        }
+        },
         backendOptions: [
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
